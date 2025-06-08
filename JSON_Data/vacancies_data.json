@@ -1,0 +1,2662 @@
+{
+    "alternate_url": "https://hh.ru/search/vacancy?area=1&enable_snippets=true&page=2&text=C%2B%2B+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "arguments": null,
+    "clusters": null,
+    "fixes": null,
+    "found": 1038,
+    "items": [
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": "10",
+                "city": "Москва",
+                "description": null,
+                "id": "3748668",
+                "lat": 55.678458,
+                "lng": 37.632287,
+                "metro": null,
+                "metro_stations": [
+                ],
+                "raw": "Москва, 1-й Нагатинский проезд, 10",
+                "street": "1-й Нагатинский проезд"
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/121045412",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121045412",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-30T17:28:16+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/599532",
+                "employer_rating": null,
+                "id": "599532",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/3525138.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/3525137.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/771045.png"
+                },
+                "name": "НТМ-ЗАЩИТА",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/599532",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=599532"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "121045412",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Программист C/С++",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-30T17:28:16+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 110000,
+                "gross": true,
+                "to": null
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 110000,
+                "gross": true,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": null
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Знание C/<highlighttext>C++</highlighttext>, желательно asm. Умение работать со стандартными интерфейсами - параллельный, SPI/I2S/I2C, RGB, UART...",
+                "responsibility": "Программирование на C/<highlighttext>C++</highlighttext>/asm под DSP - процессоры фирмы AnalogDevices (в среде VisualDSP). Поддержка/сопровождение/написание встроенного ПО (измерительные портативные..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/121045412?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "На месте работодателя"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": true,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/121216233",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121216233",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "branding": {
+                "tariff": null,
+                "type": "MAKEUP"
+            },
+            "contacts": null,
+            "created_at": "2025-06-02T11:58:29+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": true,
+                "alternate_url": "https://hh.ru/employer/5648224",
+                "employer_rating": {
+                    "reviews_count": 25,
+                    "total_rating": "4.5"
+                },
+                "id": "5648224",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/3961280.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/3961279.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/880101.png"
+                },
+                "name": "SSP SOFT",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/5648224",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5648224"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "121216233",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "С++ разработчик (Middle)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-06-02T11:58:29+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": null,
+                "gross": false,
+                "to": 350000
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": null,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": 350000
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": true,
+            "snippet": {
+                "requirement": "Работа с NTFS Streams для чтения и записи меток классификации. Опыт вызовов Java из <highlighttext>C++</highlighttext> через JNI. Навыки отладки с...",
+                "responsibility": "Развитие GUI на Java и <highlighttext>C++</highlighttext>. Реализация безопасных callback-функций из Java в <highlighttext>C++</highlighttext> через JNI. Передача информации о блокировках..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/121216233?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": "метро Бауманская",
+                "city": "Москва",
+                "description": null,
+                "id": "5865404",
+                "lat": 55.772411,
+                "lng": 37.679044,
+                "metro": {
+                    "lat": 55.772405,
+                    "line_id": "3",
+                    "line_name": "Арбатско-Покровская",
+                    "lng": 37.67904,
+                    "station_id": "3.17",
+                    "station_name": "Бауманская"
+                },
+                "metro_stations": [
+                    {
+                        "lat": 55.772405,
+                        "line_id": "3",
+                        "line_name": "Арбатско-Покровская",
+                        "lng": 37.67904,
+                        "station_id": "3.17",
+                        "station_name": "Бауманская"
+                    }
+                ],
+                "raw": "Москва, Арбатско-Покровская линия, метро Бауманская",
+                "street": "Арбатско-Покровская линия"
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/115367390",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=115367390",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "branding": {
+                "tariff": "BASIC",
+                "type": "CONSTRUCTOR"
+            },
+            "contacts": null,
+            "created_at": "2025-05-31T09:46:09+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/5465724",
+                "employer_rating": {
+                    "reviews_count": 30,
+                    "total_rating": "4.4"
+                },
+                "id": "5465724",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6571810.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6571809.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1237844.png"
+                },
+                "name": "BAUM",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/5465724",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5465724"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "115367390",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "C++ Developer",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-31T09:46:09+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": true,
+            "snippet": {
+                "requirement": "Знание С и <highlighttext>C++</highlighttext>17 (иметь опыт коммерческой разработки на <highlighttext>С++</highlighttext> от 3-х лет). Понимание общих принципов внутреннего устройства...",
+                "responsibility": "Разработка высокоэффективных алгоритмов и структур данных. Разработка алгоритма дедупликации данных. Разработка высокопроизводительного data path. Разработка control/management path. "
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/115367390?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": true,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/121198883",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121198883",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-06-02T07:54:26+0300",
+            "department": null,
+            "employer": {
+                "name": "Научно-производственная компания",
+                "trusted": true
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "121198883",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Программист микроконтроллеров и приложений под Windows",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-06-02T07:54:26+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 250000,
+                "gross": false,
+                "to": null
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": {
+                    "id": "TWICE_PER_MONTH",
+                    "name": "Два раза в месяц"
+                },
+                "from": 250000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": null
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": false,
+            "snippet": {
+                "requirement": "опыт работы с микроконтроллерами STM. - знание среды разработки Keil, <highlighttext>С++</highlighttext>, Qt. - опыт проектной деятельности. - опыт оперативной отладки готового образца устройства. - ",
+                "responsibility": "Написание программного кода под микроконтроллеры STM32 для плат управления научным оборудованием. - Разработка приложений под Windows в Qt. - "
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "anonymous",
+                "name": "Анонимная"
+            },
+            "url": "https://api.hh.ru/vacancies/121198883?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "На месте работодателя"
+                },
+                {
+                    "id": "HYBRID",
+                    "name": "Гибрид"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": "17",
+                "city": "Москва",
+                "description": null,
+                "id": "1223196",
+                "lat": 55.823388,
+                "lng": 37.658589,
+                "metro": null,
+                "metro_stations": [
+                ],
+                "raw": "Москва, улица Бориса Галушкина, 17",
+                "street": "улица Бориса Галушкина"
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/120836573",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120836573",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-30T18:59:57+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/2664368",
+                "employer_rating": null,
+                "id": "2664368",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/1980683.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/1980682.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/384606.jpg"
+                },
+                "name": "ДМС Передовые Технологии",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/2664368",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2664368"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "120836573",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Программист встраиваемого ПО",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-30T18:59:57+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 240000,
+                "gross": false,
+                "to": null
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": {
+                    "id": "TWICE_PER_MONTH",
+                    "name": "Два раза в месяц"
+                },
+                "from": 240000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": null
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": true,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Уверенное владение языками программирования C/<highlighttext>C++</highlighttext> (стандарты C99, <highlighttext>C++</highlighttext>11/14). Умение эффективно использовать среды разработки и отладочные инструменты...",
+                "responsibility": "Мы являемся <highlighttext>разработчиком</highlighttext> и производителем медицинского оборудования для функциональной диагностики. В линейку нашей продукции входят портативные суточные мониторы ЭКГ и..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/120836573?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "HYBRID",
+                    "name": "Гибрид"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": null,
+                "city": null,
+                "description": null,
+                "id": "14527850",
+                "lat": null,
+                "lng": null,
+                "metro": {
+                    "lat": 55.70961,
+                    "line_id": "9",
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "lng": 37.622569,
+                    "station_id": "9.142",
+                    "station_name": "Тульская"
+                },
+                "metro_stations": [
+                    {
+                        "lat": 55.70961,
+                        "line_id": "9",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "lng": 37.622569,
+                        "station_id": "9.142",
+                        "station_name": "Тульская"
+                    },
+                    {
+                        "lat": 55.718828,
+                        "line_id": "6",
+                        "line_name": "Калужско-Рижская",
+                        "lng": 37.607892,
+                        "station_id": "6.157",
+                        "station_name": "Шаболовская"
+                    }
+                ],
+                "raw": null,
+                "street": null
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/120425341",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120425341",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-06-01T12:02:48+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/1699363",
+                "employer_rating": {
+                    "reviews_count": 0,
+                    "total_rating": "0"
+                },
+                "id": "1699363",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/7151136.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7151135.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1382837.png"
+                },
+                "name": "СМТТех",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/1699363",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1699363"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": true,
+            "id": "120425341",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Программист C++/C#",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-06-01T12:02:48+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 140000,
+                "gross": false,
+                "to": null
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": {
+                    "id": "TWICE_PER_MONTH",
+                    "name": "Два раза в месяц"
+                },
+                "from": 140000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": null
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Высшее техническое образование. Хорошие знания <highlighttext>c++</highlighttext>, c#. Опыт разработки приложений и служб под Windows и Linux. Опыт проектирования и разработки...",
+                "responsibility": "Полное погружение в проект. Коллективная разработка на github. Доработка текущего функционала и разработка нового. Выпуск документации, тз, инструкций. Первичное тестирование."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/120425341?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "На месте работодателя"
+                },
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                },
+                {
+                    "id": "HYBRID",
+                    "name": "Гибрид"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/118849788",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118849788",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-31T14:38:18+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": true,
+                "alternate_url": "https://hh.ru/employer/709383",
+                "employer_rating": {
+                    "reviews_count": 23,
+                    "total_rating": "4.5"
+                },
+                "id": "709383",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/7193624.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7193623.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1393460.png"
+                },
+                "name": "Rubius",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/709383",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=709383"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": true,
+            "id": "118849788",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "C++ Developer (ECAD)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-31T14:38:18+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Чего мы ждём от опыта и знаний: Уверенные знания <highlighttext>C++</highlighttext>, STL. Понимание основ и принципов ООП, навыки находить простые и...",
+                "responsibility": "Индивидуальный трек развития."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/118849788?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": null,
+                "city": null,
+                "description": null,
+                "id": "12684313",
+                "lat": null,
+                "lng": null,
+                "metro": {
+                    "lat": 55.633,
+                    "line_id": "1",
+                    "line_name": "Сокольническая",
+                    "lng": 37.4419,
+                    "station_id": "1.513",
+                    "station_name": "Румянцево"
+                },
+                "metro_stations": [
+                    {
+                        "lat": 55.633,
+                        "line_id": "1",
+                        "line_name": "Сокольническая",
+                        "lng": 37.4419,
+                        "station_id": "1.513",
+                        "station_name": "Румянцево"
+                    },
+                    {
+                        "lat": 55.61873,
+                        "line_id": "6",
+                        "line_name": "Калужско-Рижская",
+                        "lng": 37.505912,
+                        "station_id": "6.140",
+                        "station_name": "Теплый Стан"
+                    },
+                    {
+                        "lat": 55.6459,
+                        "line_id": "1",
+                        "line_name": "Сокольническая",
+                        "lng": 37.4725,
+                        "station_id": "1.505",
+                        "station_name": "Тропарево"
+                    }
+                ],
+                "raw": null,
+                "street": null
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/121014869",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121014869",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-06-02T09:58:52+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/4940016",
+                "employer_rating": {
+                    "reviews_count": 6,
+                    "total_rating": "4.3"
+                },
+                "id": "4940016",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/3615500.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/3615499.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/793653.png"
+                },
+                "name": "Наймиум",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/4940016",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4940016"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "121014869",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Embedded-программист (микроконтроллеры, Middle)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-06-02T09:58:52+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 180000,
+                "gross": false,
+                "to": 250000
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 180000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": 250000
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": true,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Знаешь цифровую и аналоговую схемотехники. Опыт работы с <highlighttext>C++</highlighttext> (Qt). Опыт разработки встраиваемого ПО для одноплатных Linux систем (ARM, RISCV). ",
+                "responsibility": "Разрабатывать проекты для микроконтроллеров и ПК: ПО для разрабатываемых устройств, ПО для контрольно-проверочной аппаратуры. Тестировать ПО в конечном устройстве..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/121014869?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "На месте работодателя"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/121180554",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121180554",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "branding": {
+                "tariff": null,
+                "type": "MAKEUP"
+            },
+            "contacts": null,
+            "created_at": "2025-05-30T17:06:59+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": true,
+                "alternate_url": "https://hh.ru/employer/3707941",
+                "employer_rating": {
+                    "reviews_count": 61,
+                    "total_rating": "4.6"
+                },
+                "id": "3707941",
+                "logo_urls": null,
+                "name": "Цитадель",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/3707941",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3707941"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "121180554",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Инженер-программист С++",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-30T17:06:59+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": true,
+            "snippet": {
+                "requirement": "Уверенное знание <highlighttext>С++</highlighttext> (в т.ч. современные стандарты). Опыт разработки на языке программирования <highlighttext>C++</highlighttext> от 4-х лет. ",
+                "responsibility": "Участие в проектировании и разработке программного обеспечения (высоконагруженные 24x7 системы по сбору и анализу сетевого трафика). "
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/121180554?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": "14с7",
+                "city": "Москва",
+                "description": null,
+                "id": "14059066",
+                "lat": 55.800266,
+                "lng": 37.587317,
+                "metro": {
+                    "lat": 55.794054,
+                    "line_id": "9",
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "lng": 37.587163,
+                    "station_id": "9.128",
+                    "station_name": "Савёловская"
+                },
+                "metro_stations": [
+                    {
+                        "lat": 55.794054,
+                        "line_id": "9",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "lng": 37.587163,
+                        "station_id": "9.128",
+                        "station_name": "Савёловская"
+                    }
+                ],
+                "raw": "Москва, Большая Новодмитровская улица, 14с7",
+                "street": "Большая Новодмитровская улица"
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/115997540",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=115997540",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-06-02T11:23:53+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": true,
+                "alternate_url": "https://hh.ru/employer/10164175",
+                "employer_rating": {
+                    "reviews_count": 12,
+                    "total_rating": "4.5"
+                },
+                "id": "10164175",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/7102303.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7102302.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1370600.png"
+                },
+                "name": "НРД Тахографы Drive",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/10164175",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10164175"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "moreThan6",
+                "name": "Более 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "115997540",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Разработчик встраиваемого программного обеспечения на С++/FREERTOS (офис, м. Савеловская)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-06-02T11:23:53+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 300000,
+                "gross": false,
+                "to": null
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 300000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": null
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": true,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Глубокое знание языков программирования С, <highlighttext>С++</highlighttext>. Отличное понимание ООП и шаблонов проектирования ПО. Опыт проектирования архитектуры ПО. Знание стандартных подходов...",
+                "responsibility": "Разрабатывать прикладное и системное ПО для встраиваемых систем. Исправлять существующее ПО. Проектировать архитектуру ПО. Составлять документацию. Взаимодействовать с заказчиками."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/115997540?host=hh.ru",
+            "work_format": [
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": "11с1",
+                "city": "Москва",
+                "description": null,
+                "id": "1576425",
+                "lat": 55.770416,
+                "lng": 37.517033,
+                "metro": {
+                    "lat": 55.777201,
+                    "line_id": "7",
+                    "line_name": "Таганско-Краснопресненская",
+                    "lng": 37.517895,
+                    "station_id": "7.114",
+                    "station_name": "Полежаевская"
+                },
+                "metro_stations": [
+                    {
+                        "lat": 55.777201,
+                        "line_id": "7",
+                        "line_name": "Таганско-Краснопресненская",
+                        "lng": 37.517895,
+                        "station_id": "7.114",
+                        "station_name": "Полежаевская"
+                    },
+                    {
+                        "lat": 55.77643,
+                        "line_id": "97",
+                        "line_name": "Большая кольцевая линия",
+                        "lng": 37.51981,
+                        "station_id": "97.601",
+                        "station_name": "Хорошевская"
+                    }
+                ],
+                "raw": "Москва, 4-я Магистральная улица, 11с1",
+                "street": "4-я Магистральная улица"
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/120308273",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120308273",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-31T09:39:45+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/1137609",
+                "employer_rating": {
+                    "reviews_count": 4,
+                    "total_rating": "4.4"
+                },
+                "id": "1137609",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/801747.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/801746.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/69436.jpg"
+                },
+                "name": "Клируэй Текнолоджис",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/1137609",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1137609"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "moreThan6",
+                "name": "Более 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "120308273",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Разработчик Windows Low Level C/C++",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-31T09:39:45+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 280000,
+                "gross": false,
+                "to": 380000
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 280000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": 380000
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Понимание принципов работы ядра Windows (Kernel Mode Programming). Использование инструментов Microsoft Driver <highlighttext>Development</highlighttext> Kit (DDK/WDK). Опыт отладки драйверов с...",
+                "responsibility": "Разработка и поддержка драйверов устройств для Windows (WDM, WDF). Реализация механизмов перехвата функций API (Hooking) для мониторинга и модификации поведения..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/120308273?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/118850344",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118850344",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-31T14:38:21+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": true,
+                "alternate_url": "https://hh.ru/employer/709383",
+                "employer_rating": {
+                    "reviews_count": 23,
+                    "total_rating": "4.5"
+                },
+                "id": "709383",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/7193624.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7193623.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1393460.png"
+                },
+                "name": "Rubius",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/709383",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=709383"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": true,
+            "id": "118850344",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "C++ Developer (UI)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-31T14:38:21+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Чего мы ждём от опыта и знаний: Уверенные знания <highlighttext>C++</highlighttext>, STL. Разработка пользовательского интерфейса в Qt (QML, Qt Widgets). ",
+                "responsibility": "Индивидуальный трек развития."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/118850344?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": "53к2",
+                "city": "Москва",
+                "description": null,
+                "id": "286538",
+                "lat": 55.746203,
+                "lng": 37.722765,
+                "metro": {
+                    "lat": 55.751933,
+                    "line_id": "8",
+                    "line_name": "Калининская",
+                    "lng": 37.717444,
+                    "station_id": "8.1",
+                    "station_name": "Авиамоторная"
+                },
+                "metro_stations": [
+                    {
+                        "lat": 55.751933,
+                        "line_id": "8",
+                        "line_name": "Калининская",
+                        "lng": 37.717444,
+                        "station_id": "8.1",
+                        "station_name": "Авиамоторная"
+                    }
+                ],
+                "raw": "Москва, Авиамоторная улица, 53к2",
+                "street": "Авиамоторная улица"
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/103777222",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103777222",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-06-02T10:09:31+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/901158",
+                "employer_rating": {
+                    "reviews_count": 100,
+                    "total_rating": "3.7"
+                },
+                "id": "901158",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6641158.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6641157.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1255182.jpg"
+                },
+                "name": "Российские космические системы",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/901158",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=901158"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": true,
+            "id": "103777222",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Программист С++",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-06-02T10:09:31+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 80000,
+                "gross": true,
+                "to": 170000
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 80000,
+                "gross": true,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": 170000
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": true,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Баумана, МАИ, МИРЭА, МТУСИ, МИРЭА, МЭИ по указанным специальностям без опыта работы. Уверенное владение <highlighttext>С++</highlighttext>. Опыт работы с ОС Linux. ",
+                "responsibility": "Разрабатывать программное обеспечение. Проводить проверку работоспособности ПО. Проводить анализ уже существующего ПО. Оформлять документацию на ПО в соответствии с установленными..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/103777222?host=hh.ru",
+            "work_format": [
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/121165622",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121165622",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-30T12:42:09+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/2999164",
+                "employer_rating": {
+                    "reviews_count": 19,
+                    "total_rating": "4.2"
+                },
+                "id": "2999164",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/5904770.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/5904769.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1071035.png"
+                },
+                "name": "Национальный расчетный депозитарий",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/2999164",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2999164"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "121165622",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Старший разработчик С++",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-30T12:42:09+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Опыт практической работы в качестве <highlighttext>разработчика</highlighttext> серверных приложений под Linux. Профессиональное владение средствами разработки C/<highlighttext>C++</highlighttext>. Участие в проектах, связанных...",
+                "responsibility": "Разработка ПО, проведение его отладки и юнит-тестирования. Проведение ревью кода, статического и динамического анализа. Улучшение производительности приложения, включая увеличение..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/121165622?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                },
+                {
+                    "id": "HYBRID",
+                    "name": "Гибрид"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/120459419",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120459419",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-31T10:56:42+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/11151892",
+                "employer_rating": null,
+                "id": "11151892",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6790079.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/6790078.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1292445.jpeg"
+                },
+                "name": "Негорожина Анастасия Вячеславовна",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/11151892",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11151892"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "120459419",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Разработчик С++ (middle)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-31T10:56:42+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 200000,
+                "gross": false,
+                "to": 280000
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 200000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": 280000
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Уверенные знания <highlighttext>С++</highlighttext> 14/17 стандарта языка. — Уверенные знания (STL, Multithreading). — Опыт разработки сетевого кода, протоколы(L4 — TCP/ UDP...",
+                "responsibility": "Разработка, внедрение и сопровождение комплексных систем безопасности. Реализация технических средств охраны, систем видеонаблюдения, контроля доступа, охраны периметра и офисной связи. "
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/120459419?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "На месте работодателя"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": {
+                "building": "10",
+                "city": "Москва",
+                "description": null,
+                "id": "3600902",
+                "lat": 55.752587,
+                "lng": 37.702346,
+                "metro": {
+                    "lat": 55.751933,
+                    "line_id": "8",
+                    "line_name": "Калининская",
+                    "lng": 37.717444,
+                    "station_id": "8.1",
+                    "station_name": "Авиамоторная"
+                },
+                "metro_stations": [
+                    {
+                        "lat": 55.751933,
+                        "line_id": "8",
+                        "line_name": "Калининская",
+                        "lng": 37.717444,
+                        "station_id": "8.1",
+                        "station_name": "Авиамоторная"
+                    }
+                ],
+                "raw": "Москва, проезд Завода Серп и Молот, 10",
+                "street": "проезд Завода Серп и Молот"
+            },
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/121165030",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121165030",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "branding": {
+                "tariff": null,
+                "type": "MAKEUP"
+            },
+            "contacts": null,
+            "created_at": "2025-05-30T12:30:11+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": true,
+                "alternate_url": "https://hh.ru/employer/153479",
+                "employer_rating": {
+                    "reviews_count": 61,
+                    "total_rating": "4.2"
+                },
+                "id": "153479",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6828587.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6828586.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1302081.png"
+                },
+                "name": "Цифровые решения, НПП",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/153479",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=153479"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "121165030",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Разработчик C/С++ | Embedded software developer C/С++",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-30T12:30:11+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": true,
+            "snippet": {
+                "requirement": "Опыт разработки на C или <highlighttext>C++</highlighttext> не менее 3 лет. Навыки построения качественной архитектуры ПО: производительной, простой в расширении и...",
+                "responsibility": "Разработка встраиваемого ПО для накопителей с интерфейсами USB, SATA, SD, NVMe. ______________________________________________________________________________. Проектирование алгоритмов записи и хранения данных твердотельных накопителей..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/121165030?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "На месте работодателя"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/120939375",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120939375",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-25T15:16:05+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/5294777",
+                "employer_rating": {
+                    "reviews_count": 10,
+                    "total_rating": "4.6"
+                },
+                "id": "5294777",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/3761020.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo/3761019.jpeg",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/830034.JPG"
+                },
+                "name": "Koroleva HR",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/5294777",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5294777"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "120939375",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Разработчик С++ (stl, git, cmake, qt)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-25T15:16:05+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 200000,
+                "gross": false,
+                "to": 250000
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 200000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": 250000
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": true,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Уверенные знания языка <highlighttext>C++</highlighttext> 14 (свободное владение STL). Знание QT, QML. Знание HTML, JS, TypeScript, CSS, SCSS, SASS, React. ",
+                "responsibility": "Задачи: Написание приложений под различные дистрибутивы linux."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/120939375?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/118975530",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118975530",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-05-30T13:52:54+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/9882284",
+                "employer_rating": {
+                    "reviews_count": 0,
+                    "total_rating": "0"
+                },
+                "id": "9882284",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6971483.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6971482.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1337873.png"
+                },
+                "name": "Спектральные Технологии",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/9882284",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9882284"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "118975530",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "Middle C++ Engineer",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-30T13:52:54+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": {
+                "currency": "RUR",
+                "from": 350000,
+                "gross": false,
+                "to": null
+            },
+            "salary_range": {
+                "currency": "RUR",
+                "frequency": null,
+                "from": 350000,
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "За месяц"
+                },
+                "to": null
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Быстро пишете качественный и эффективный код на <highlighttext>С++</highlighttext> от 17 стандарта. Понимаете принципы работы ОС, железа (CPU, RAM, NIC), а...",
+                "responsibility": "С ++ 20 для части системы, принимающей торговые решения, а также экстенсивное метапрограммирование для минимизации работы в runtime и kernel..."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/118975530?host=hh.ru",
+            "work_format": [
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/120409006",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120409006",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "branding": {
+                "tariff": "BASIC",
+                "type": "CONSTRUCTOR"
+            },
+            "contacts": null,
+            "created_at": "2025-05-30T13:32:45+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": false,
+                "alternate_url": "https://hh.ru/employer/1146175",
+                "employer_rating": {
+                    "reviews_count": 15,
+                    "total_rating": "4.1"
+                },
+                "id": "1146175",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6516270.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6516269.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1223957.png"
+                },
+                "name": "Delta Computers",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/1146175",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1146175"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": false,
+            "id": "120409006",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "C++ разработчик (Embedded)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-05-30T13:32:45+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": true,
+            "snippet": {
+                "requirement": "Опыт написания кода на языке С и <highlighttext>C++</highlighttext> (стандарты от 11). Опыт написания ПО под микроконтроллеры и ОС Linux. ",
+                "responsibility": "...для серверного оборудования (<highlighttext>С++</highlighttext>). Изучать и осваивать новые технологии, архитектуры. Взаимодействовать с аналитиками, руководителями проектов, схемотехниками, конструкторами, <highlighttext>разработчиками</highlighttext> программного обеспечения."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/120409006?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "На месте работодателя"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        },
+        {
+            "accept_incomplete_resumes": false,
+            "accept_temporary": false,
+            "address": null,
+            "adv_context": null,
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/120653912",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120653912",
+            "archived": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "contacts": null,
+            "created_at": "2025-06-01T09:23:03+0300",
+            "department": null,
+            "employer": {
+                "accredited_it_employer": true,
+                "alternate_url": "https://hh.ru/employer/709383",
+                "employer_rating": {
+                    "reviews_count": 23,
+                    "total_rating": "4.5"
+                },
+                "id": "709383",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/7193624.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7193623.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1393460.png"
+                },
+                "name": "Rubius",
+                "trusted": true,
+                "url": "https://api.hh.ru/employers/709383",
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=709383"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Полная"
+            },
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "fly_in_fly_out_duration": [
+            ],
+            "has_test": true,
+            "id": "120653912",
+            "insider_interview": null,
+            "internship": false,
+            "is_adv_vacancy": false,
+            "name": "C++ Developer (CAD, Geometry)",
+            "night_shifts": false,
+            "premium": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "published_at": "2025-06-01T09:23:03+0300",
+            "relations": [
+            ],
+            "response_letter_required": false,
+            "response_url": null,
+            "salary": null,
+            "salary_range": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "show_contacts": false,
+            "show_logo_in_search": null,
+            "snippet": {
+                "requirement": "Чего мы ждём от опыта и знаний: Уверенные знания <highlighttext>C++</highlighttext>, STL. Понимание основ и принципов ООП. Знание основных алгоритмов, структур...",
+                "responsibility": "Разработка инструментов моделирования поверхностей для облачного САПР. Индивидуальный трек развития."
+            },
+            "sort_point_distance": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "url": "https://api.hh.ru/vacancies/120653912?host=hh.ru",
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Удалённо"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "working_days": [
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 часов"
+                }
+            ],
+            "working_time_intervals": [
+            ],
+            "working_time_modes": [
+            ]
+        }
+    ],
+    "page": 2,
+    "pages": 52,
+    "per_page": 20,
+    "suggests": null
+}
