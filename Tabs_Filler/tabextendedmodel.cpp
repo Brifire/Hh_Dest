@@ -39,7 +39,7 @@ int TabExtendedModel::rowCount(const QModelIndex &parent) const
     if (!parent.isValid())
         return 0;
     return m_SkillStat->size();
-    // FIXME: Implement me!
+
 }
 
 int TabExtendedModel::columnCount(const QModelIndex &parent) const

@@ -1,6 +1,6 @@
 /home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/art/Hh_Dest/mainwindow.h \
   /home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/moc_predefs.h \
-  /home/art/Hh_Dest/Hh_Analyzer/datainsert.h \
+  /home/art/Hh_Dest/Hh_Data_Structures/datainsert.h \
   /home/art/Hh_Dest/Hh_Downloading_Menu/downloadingmenu.h \
   /home/art/Hh_Dest/Hh_Search/downloadjsondata.h \
   /home/art/Hh_Dest/Hh_Search/downloadvacanciesid.h \

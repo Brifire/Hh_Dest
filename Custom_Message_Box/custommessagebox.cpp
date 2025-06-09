@@ -1,7 +1,7 @@
 #include "custommessagebox.h"
 #include <QFileDialog>
 #include "../Hh_Settings/settingsmanager.h"
-#include <Hh_Analyzer/datainsert.h>
+#include <Hh_Data_Structures/datainsert.h>
 
 CustomMessageBox::CustomMessageBox(QWidget *parent, MsgBoxchoice messageType,std::function<void()> callback)
     : QWidget(parent), m_callback(callback)

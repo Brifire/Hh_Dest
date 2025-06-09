@@ -6,7 +6,7 @@
 #include "Hh_Search/hh_search.h"
 #include <QMessageBox>
 #include <QAction>
-#include "Hh_Analyzer/datainsert.h"
+#include <Hh_Data_Structures/datainsert.h>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {

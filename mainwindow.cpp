@@ -11,7 +11,7 @@
 
 #include "Hh_Settings/settingsmanager.h"
 
-#include "Hh_Analyzer/datainsert.h"
+#include <Hh_Data_Structures/datainsert.h>
 
 #include "Hh_Data_Structures/datastructures.h"
 

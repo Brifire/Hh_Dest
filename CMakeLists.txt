@@ -19,13 +19,21 @@ qt_add_executable(Hh_Dest
     Hh_Downloading_Menu/downloadingmenu.h Hh_Downloading_Menu/downloadingmenu.cpp Hh_Downloading_Menu/downloadingmenu.ui
     Hh_Pars_JSON/hhparsjson.h Hh_Pars_JSON/hhparsjson.cpp
     Hh_Data_Structures/datastructures.h Hh_Data_Structures/datastructures.cpp
-    Hh_Analyzer/datainsert.h Hh_Analyzer/datainsert.cpp
+
     Hh_Search/downloadjsondata.h
     Hh_Search/downloadvacanciesid.h Hh_Search/downloadvacanciesid.cpp
     Tabs_Filler/tabskillsfiller.h Tabs_Filler/tabskillsfiller.cpp
     Tabs_Filler/abstracttabfiller.h
     Tabs_Filler/tabextendedskillsfiller.h Tabs_Filler/tabextendedskillsfiller.cpp
     Tabs_Filler/tabextendedmodel.h Tabs_Filler/tabextendedmodel.cpp
+    Hh_Data_Structures/datainsert.h Hh_Data_Structures/datainsert.cpp
+    Model_Data_Provider/abstractmodeldataprovider.h
+    Model_Data_Provider/vacancydataprovider.h Model_Data_Provider/vacancydataprovider.cpp
+    Model_Data_Provider/abstractprocessingstrategy.h
+    Model_Data_Provider/abstactrowdata.h
+    Model_Data_Provider/jobinfosecondtab.h Model_Data_Provider/jobinfosecondtab.cpp
+
+
 
 )
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})

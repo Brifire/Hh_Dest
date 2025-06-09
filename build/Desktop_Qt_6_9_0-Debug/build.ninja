@@ -129,14 +129,6 @@ build CMakeFiles/Hh_Dest.dir/Hh_Data_Structures/datastructures.cpp.o: CXX_COMPIL
   OBJECT_DIR = CMakeFiles/Hh_Dest.dir
   OBJECT_FILE_DIR = CMakeFiles/Hh_Dest.dir/Hh_Data_Structures
 
-build CMakeFiles/Hh_Dest.dir/Hh_Analyzer/datainsert.cpp.o: CXX_COMPILER__Hh_Dest_unscanned_Debug /home/art/Hh_Dest/Hh_Analyzer/datainsert.cpp || cmake_object_order_depends_target_Hh_Dest
-  DEFINES = -DDEBUG_MACRO -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/Hh_Dest.dir/Hh_Analyzer/datainsert.cpp.o.d
-  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always -fPIC
-  INCLUDES = -I/home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/include -I/home/art/Hh_Dest -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCore -isystem /home/art/Qt/6.9.0/gcc_64/include -isystem /home/art/Qt/6.9.0/gcc_64/mkspecs/linux-g++ -isystem /home/art/Qt/6.9.0/gcc_64/include/QtWidgets -isystem /home/art/Qt/6.9.0/gcc_64/include/QtGui -isystem /home/art/Qt/6.9.0/gcc_64/include/QtNetwork -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCharts -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGL -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGLWidgets
-  OBJECT_DIR = CMakeFiles/Hh_Dest.dir
-  OBJECT_FILE_DIR = CMakeFiles/Hh_Dest.dir/Hh_Analyzer
-
 build CMakeFiles/Hh_Dest.dir/Hh_Search/downloadvacanciesid.cpp.o: CXX_COMPILER__Hh_Dest_unscanned_Debug /home/art/Hh_Dest/Hh_Search/downloadvacanciesid.cpp || cmake_object_order_depends_target_Hh_Dest
   DEFINES = -DDEBUG_MACRO -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB
   DEP_FILE = CMakeFiles/Hh_Dest.dir/Hh_Search/downloadvacanciesid.cpp.o.d
@@ -169,6 +161,30 @@ build CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabextendedmodel.cpp.o: CXX_COMPILER__H
   OBJECT_DIR = CMakeFiles/Hh_Dest.dir
   OBJECT_FILE_DIR = CMakeFiles/Hh_Dest.dir/Tabs_Filler
 
+build CMakeFiles/Hh_Dest.dir/Hh_Data_Structures/datainsert.cpp.o: CXX_COMPILER__Hh_Dest_unscanned_Debug /home/art/Hh_Dest/Hh_Data_Structures/datainsert.cpp || cmake_object_order_depends_target_Hh_Dest
+  DEFINES = -DDEBUG_MACRO -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Hh_Dest.dir/Hh_Data_Structures/datainsert.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/include -I/home/art/Hh_Dest -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCore -isystem /home/art/Qt/6.9.0/gcc_64/include -isystem /home/art/Qt/6.9.0/gcc_64/mkspecs/linux-g++ -isystem /home/art/Qt/6.9.0/gcc_64/include/QtWidgets -isystem /home/art/Qt/6.9.0/gcc_64/include/QtGui -isystem /home/art/Qt/6.9.0/gcc_64/include/QtNetwork -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCharts -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGL -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGLWidgets
+  OBJECT_DIR = CMakeFiles/Hh_Dest.dir
+  OBJECT_FILE_DIR = CMakeFiles/Hh_Dest.dir/Hh_Data_Structures
+
+build CMakeFiles/Hh_Dest.dir/Model_Data_Provider/vacancydataprovider.cpp.o: CXX_COMPILER__Hh_Dest_unscanned_Debug /home/art/Hh_Dest/Model_Data_Provider/vacancydataprovider.cpp || cmake_object_order_depends_target_Hh_Dest
+  DEFINES = -DDEBUG_MACRO -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Hh_Dest.dir/Model_Data_Provider/vacancydataprovider.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/include -I/home/art/Hh_Dest -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCore -isystem /home/art/Qt/6.9.0/gcc_64/include -isystem /home/art/Qt/6.9.0/gcc_64/mkspecs/linux-g++ -isystem /home/art/Qt/6.9.0/gcc_64/include/QtWidgets -isystem /home/art/Qt/6.9.0/gcc_64/include/QtGui -isystem /home/art/Qt/6.9.0/gcc_64/include/QtNetwork -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCharts -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGL -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGLWidgets
+  OBJECT_DIR = CMakeFiles/Hh_Dest.dir
+  OBJECT_FILE_DIR = CMakeFiles/Hh_Dest.dir/Model_Data_Provider
+
+build CMakeFiles/Hh_Dest.dir/Model_Data_Provider/jobinfosecondtab.cpp.o: CXX_COMPILER__Hh_Dest_unscanned_Debug /home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.cpp || cmake_object_order_depends_target_Hh_Dest
+  DEFINES = -DDEBUG_MACRO -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Hh_Dest.dir/Model_Data_Provider/jobinfosecondtab.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/include -I/home/art/Hh_Dest -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCore -isystem /home/art/Qt/6.9.0/gcc_64/include -isystem /home/art/Qt/6.9.0/gcc_64/mkspecs/linux-g++ -isystem /home/art/Qt/6.9.0/gcc_64/include/QtWidgets -isystem /home/art/Qt/6.9.0/gcc_64/include/QtGui -isystem /home/art/Qt/6.9.0/gcc_64/include/QtNetwork -isystem /home/art/Qt/6.9.0/gcc_64/include/QtCharts -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGL -isystem /home/art/Qt/6.9.0/gcc_64/include/QtOpenGLWidgets
+  OBJECT_DIR = CMakeFiles/Hh_Dest.dir
+  OBJECT_FILE_DIR = CMakeFiles/Hh_Dest.dir/Model_Data_Provider
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Hh_Dest
@@ -177,7 +193,7 @@ build CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabextendedmodel.cpp.o: CXX_COMPILER__H
 #############################################
 # Link the executable Hh_Dest
 
-build Hh_Dest: CXX_EXECUTABLE_LINKER__Hh_Dest_Debug CMakeFiles/Hh_Dest.dir/Hh_Dest_autogen/mocs_compilation.cpp.o CMakeFiles/Hh_Dest.dir/main.cpp.o CMakeFiles/Hh_Dest.dir/mainwindow.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Search/hh_search.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Search/hh_pars.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Settings/settingsmanager.cpp.o CMakeFiles/Hh_Dest.dir/Custom_Message_Box/custommessagebox.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Downloading_Menu/downloadingmenu.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Pars_JSON/hhparsjson.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Data_Structures/datastructures.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Analyzer/datainsert.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Search/downloadvacanciesid.cpp.o CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabskillsfiller.cpp.o CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabextendedskillsfiller.cpp.o CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabextendedmodel.cpp.o | /home/art/Qt/6.9.0/gcc_64/lib/libQt6Network.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Charts.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6OpenGLWidgets.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Widgets.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6OpenGL.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Gui.so.6.9.0 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/art/Qt/6.9.0/gcc_64/lib/libQt6Core.so.6.9.0 || Hh_Dest_autogen Hh_Dest_autogen_timestamp_deps
+build Hh_Dest: CXX_EXECUTABLE_LINKER__Hh_Dest_Debug CMakeFiles/Hh_Dest.dir/Hh_Dest_autogen/mocs_compilation.cpp.o CMakeFiles/Hh_Dest.dir/main.cpp.o CMakeFiles/Hh_Dest.dir/mainwindow.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Search/hh_search.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Search/hh_pars.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Settings/settingsmanager.cpp.o CMakeFiles/Hh_Dest.dir/Custom_Message_Box/custommessagebox.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Downloading_Menu/downloadingmenu.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Pars_JSON/hhparsjson.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Data_Structures/datastructures.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Search/downloadvacanciesid.cpp.o CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabskillsfiller.cpp.o CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabextendedskillsfiller.cpp.o CMakeFiles/Hh_Dest.dir/Tabs_Filler/tabextendedmodel.cpp.o CMakeFiles/Hh_Dest.dir/Hh_Data_Structures/datainsert.cpp.o CMakeFiles/Hh_Dest.dir/Model_Data_Provider/vacancydataprovider.cpp.o CMakeFiles/Hh_Dest.dir/Model_Data_Provider/jobinfosecondtab.cpp.o | /home/art/Qt/6.9.0/gcc_64/lib/libQt6Network.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Charts.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6OpenGLWidgets.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Widgets.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6OpenGL.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Gui.so.6.9.0 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/art/Qt/6.9.0/gcc_64/lib/libQt6Core.so.6.9.0 || Hh_Dest_autogen Hh_Dest_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -Wl,-rpath,/home/art/Qt/6.9.0/gcc_64/lib:  /home/art/Qt/6.9.0/gcc_64/lib/libQt6Network.so.6.9.0  /home/art/Qt/6.9.0/gcc_64/lib/libQt6Charts.so.6.9.0  /home/art/Qt/6.9.0/gcc_64/lib/libQt6OpenGLWidgets.so.6.9.0  /home/art/Qt/6.9.0/gcc_64/lib/libQt6Widgets.so.6.9.0  /home/art/Qt/6.9.0/gcc_64/lib/libQt6OpenGL.so.6.9.0  /home/art/Qt/6.9.0/gcc_64/lib/libQt6Gui.so.6.9.0  /usr/lib/x86_64-linux-gnu/libGLX.so  /usr/lib/x86_64-linux-gnu/libOpenGL.so  /home/art/Qt/6.9.0/gcc_64/lib/libQt6Core.so.6.9.0  -Wl,-rpath-link,/home/art/Qt/6.9.0/gcc_64/lib
   OBJECT_DIR = CMakeFiles/Hh_Dest.dir
@@ -277,7 +293,7 @@ build Hh_Dest_autogen/timestamp Hh_Dest_autogen/mocs_compilation.cpp | ${cmake_n
 #############################################
 # Phony custom command for CMakeFiles/Hh_Dest_autogen_timestamp_deps
 
-build CMakeFiles/Hh_Dest_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/Hh_Dest_autogen_timestamp_deps: phony /home/art/Qt/6.9.0/gcc_64/lib/libQt6Charts.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/libexec/uic /home/art/Qt/6.9.0/gcc_64/libexec/moc /home/art/Qt/6.9.0/gcc_64/lib/libQt6Network.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Widgets.so.6.9.0
+build CMakeFiles/Hh_Dest_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/Hh_Dest_autogen_timestamp_deps: phony /home/art/Qt/6.9.0/gcc_64/libexec/uic /home/art/Qt/6.9.0/gcc_64/libexec/moc /home/art/Qt/6.9.0/gcc_64/lib/libQt6Charts.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Network.so.6.9.0 /home/art/Qt/6.9.0/gcc_64/lib/libQt6Widgets.so.6.9.0
 
 
 #############################################

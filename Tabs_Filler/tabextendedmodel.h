@@ -4,7 +4,6 @@
 #include <QAbstractItemModel>
 #include <QString>
 #include <QVector>
-#include "Hh_Data_Structures/datastructures.h"
 
 
 struct SkillStat {
@@ -38,7 +37,6 @@ public:
     void setDataList(const std::vector<SkillStat>& data);
 
 private:
-    //std::unique_ptr<std::vector<JobInfoStruct>> m_data;
     std::unique_ptr<std::vector<SkillStat>> m_SkillStat;
 
 };

@@ -2,8 +2,8 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Hh_Dest/CMakeLists.txt \
 	/home/art/Hh_Dest/Custom_Message_Box/custommessagebox.cpp \
 	/home/art/Hh_Dest/Custom_Message_Box/custommessagebox.h \
-	/home/art/Hh_Dest/Hh_Analyzer/datainsert.cpp \
-	/home/art/Hh_Dest/Hh_Analyzer/datainsert.h \
+	/home/art/Hh_Dest/Hh_Data_Structures/datainsert.cpp \
+	/home/art/Hh_Dest/Hh_Data_Structures/datainsert.h \
 	/home/art/Hh_Dest/Hh_Data_Structures/datastructures.cpp \
 	/home/art/Hh_Dest/Hh_Data_Structures/datastructures.h \
 	/home/art/Hh_Dest/Hh_Downloading_Menu/downloadingmenu.cpp \
@@ -19,6 +19,13 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Hh_Dest/Hh_Search/hh_search.h \
 	/home/art/Hh_Dest/Hh_Settings/settingsmanager.cpp \
 	/home/art/Hh_Dest/Hh_Settings/settingsmanager.h \
+	/home/art/Hh_Dest/Model_Data_Provider/abstactrowdata.h \
+	/home/art/Hh_Dest/Model_Data_Provider/abstractmodeldataprovider.h \
+	/home/art/Hh_Dest/Model_Data_Provider/abstractprocessingstrategy.h \
+	/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.cpp \
+	/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.h \
+	/home/art/Hh_Dest/Model_Data_Provider/vacancydataprovider.cpp \
+	/home/art/Hh_Dest/Model_Data_Provider/vacancydataprovider.h \
 	/home/art/Hh_Dest/Tabs_Filler/abstracttabfiller.h \
 	/home/art/Hh_Dest/Tabs_Filler/tabextendedmodel.cpp \
 	/home/art/Hh_Dest/Tabs_Filler/tabextendedmodel.h \
@@ -41,17 +48,15 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QJsonDocument \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QJsonObject \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QList \
-	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QMap \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QMetaType \
-	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QMutex \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QObject \
-	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QPair \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QSettings \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QSharedDataPointer \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QString \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QTimer \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QUrl \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QVariant \
+	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QVariantList \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/QVector \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/q17memory.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/q20functional.h \
@@ -138,7 +143,6 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qmetacontainer.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qmetatype.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qminmax.h \
-	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qmutex.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qnamespace.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qnumeric.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qobject.h \
@@ -195,7 +199,6 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qtnoop.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qtpreprocessorsupport.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qtresource.h \
-	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qtsan_impl.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qttranslation.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qttypetraits.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qtversion.h \
@@ -206,6 +209,7 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qutf8stringview.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/quuid.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qvariant.h \
+	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qvariantlist.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qvarlengtharray.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qvector.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtCore/qversiontagging.h \

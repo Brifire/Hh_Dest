@@ -596,9 +596,9 @@
 			null
 		],
 		[
-			"/home/art/Hh_Dest/Hh_Analyzer/datainsert.h",
+			"/home/art/Hh_Dest/Hh_Data_Structures/datainsert.h",
 			"MU",
-			"JAXODKGANJ/moc_datainsert.cpp",
+			"X55KMVVPBD/moc_datainsert.cpp",
 			null
 		],
 		[
@@ -647,6 +647,36 @@
 			"/home/art/Hh_Dest/Hh_Settings/settingsmanager.h",
 			"MU",
 			"KEHBDNUFB2/moc_settingsmanager.cpp",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/abstactrowdata.h",
+			"MU",
+			"XM5K557B3X/moc_abstactrowdata.cpp",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/abstractmodeldataprovider.h",
+			"MU",
+			"XM5K557B3X/moc_abstractmodeldataprovider.cpp",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/abstractprocessingstrategy.h",
+			"MU",
+			"XM5K557B3X/moc_abstractprocessingstrategy.cpp",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.h",
+			"MU",
+			"XM5K557B3X/moc_jobinfosecondtab.cpp",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/vacancydataprovider.h",
+			"MU",
+			"XM5K557B3X/moc_vacancydataprovider.cpp",
 			null
 		],
 		[
@@ -758,7 +788,7 @@
 			"MU",
 			null
 		],
-		[ "/home/art/Hh_Dest/Hh_Analyzer/datainsert.cpp", "MU", null ],
+		[ "/home/art/Hh_Dest/Hh_Data_Structures/datainsert.cpp", "MU", null ],
 		[ "/home/art/Hh_Dest/Hh_Data_Structures/datastructures.cpp", "MU", null ],
 		[
 			"/home/art/Hh_Dest/Hh_Downloading_Menu/downloadingmenu.cpp",
@@ -770,6 +800,16 @@
 		[ "/home/art/Hh_Dest/Hh_Search/hh_pars.cpp", "MU", null ],
 		[ "/home/art/Hh_Dest/Hh_Search/hh_search.cpp", "MU", null ],
 		[ "/home/art/Hh_Dest/Hh_Settings/settingsmanager.cpp", "MU", null ],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/vacancydataprovider.cpp",
+			"MU",
+			null
+		],
 		[ "/home/art/Hh_Dest/Tabs_Filler/tabextendedmodel.cpp", "MU", null ],
 		[
 			"/home/art/Hh_Dest/Tabs_Filler/tabextendedskillsfiller.cpp",

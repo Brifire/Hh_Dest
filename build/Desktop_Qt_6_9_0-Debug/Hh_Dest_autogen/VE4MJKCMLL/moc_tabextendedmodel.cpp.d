@@ -1,13 +1,7 @@
 /home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/VE4MJKCMLL/moc_tabextendedmodel.cpp: /home/art/Hh_Dest/Tabs_Filler/tabextendedmodel.h \
   /home/art/Hh_Dest/build/Desktop_Qt_6_9_0-Debug/Hh_Dest_autogen/moc_predefs.h \
-  /home/art/Hh_Dest/Hh_Data_Structures/datastructures.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/QAbstractItemModel \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/QHash \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/QMap \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/QMutex \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/QPair \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/QString \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/QUrl \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/QVector \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/q17memory.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/q20functional.h \
@@ -43,9 +37,7 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qcontiguouscache.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qdarwinhelpers.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qdatastream.h \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qdeadlinetimer.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qdebug.h \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qelapsedtimer.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qexceptionhandling.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qflags.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qfloat16.h \
@@ -69,7 +61,6 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmetacontainer.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmetatype.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qminmax.h \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmutex.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qnamespace.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qnumeric.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qobject.h \
@@ -118,14 +109,12 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtnoop.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtpreprocessorsupport.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtresource.h \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtsan_impl.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qttranslation.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qttypetraits.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtversion.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtversionchecks.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtypeinfo.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qtypes.h \
-  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qurl.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qutf8stringview.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qvariant.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qvarlengtharray.h \
