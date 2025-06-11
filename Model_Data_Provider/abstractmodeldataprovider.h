@@ -4,14 +4,15 @@
 #include <QObject>
 #include <QAbstractItemModel>
 #include <QVariantList>
+#include <qstandarditemmodel.h>
 
-class AbstractModelDataProvider:QObject
+
+class AbstractModelDataProvider: public QObject
 {
     Q_OBJECT
 public:
-    AbstractModelDataProvider();
     virtual ~AbstractModelDataProvider()=default;
-    virtual void process(const QVariantList& rawData, QAbstractItemModel* model) = 0;
+    virtual void process(const QList <QVariant> &data, QStandardItemModel *model) = 0;
 };
 
 #endif // ABSTRACTMODELDATAPROVIDER_H

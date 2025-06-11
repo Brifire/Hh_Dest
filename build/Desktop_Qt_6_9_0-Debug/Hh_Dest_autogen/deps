@@ -22,8 +22,10 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Hh_Dest/Model_Data_Provider/abstactrowdata.h \
 	/home/art/Hh_Dest/Model_Data_Provider/abstractmodeldataprovider.h \
 	/home/art/Hh_Dest/Model_Data_Provider/abstractprocessingstrategy.h \
-	/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.cpp \
-	/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.h \
+	/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtabadapter.cpp \
+	/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtabadapter.h \
+	/home/art/Hh_Dest/Model_Data_Provider/secondtabprocessingstrategy.cpp \
+	/home/art/Hh_Dest/Model_Data_Provider/secondtabprocessingstrategy.h \
 	/home/art/Hh_Dest/Model_Data_Provider/vacancydataprovider.cpp \
 	/home/art/Hh_Dest/Model_Data_Provider/vacancydataprovider.h \
 	/home/art/Hh_Dest/Tabs_Filler/abstracttabfiller.h \
@@ -236,6 +238,7 @@ Hh_Dest_autogen/timestamp: \
 	/home/art/Qt/6.9.0/gcc_64/include/QtGui/qregion.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtGui/qrgb.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtGui/qrgba64.h \
+	/home/art/Qt/6.9.0/gcc_64/include/QtGui/qstandarditemmodel.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtGui/qtgui-config.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtGui/qtguiexports.h \
 	/home/art/Qt/6.9.0/gcc_64/include/QtGui/qtguiglobal.h \

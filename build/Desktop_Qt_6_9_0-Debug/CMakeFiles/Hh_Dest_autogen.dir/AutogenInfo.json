@@ -668,9 +668,15 @@
 			null
 		],
 		[
-			"/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.h",
+			"/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtabadapter.h",
 			"MU",
-			"XM5K557B3X/moc_jobinfosecondtab.cpp",
+			"XM5K557B3X/moc_jobinfosecondtabadapter.cpp",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/secondtabprocessingstrategy.h",
+			"MU",
+			"XM5K557B3X/moc_secondtabprocessingstrategy.cpp",
 			null
 		],
 		[
@@ -801,7 +807,12 @@
 		[ "/home/art/Hh_Dest/Hh_Search/hh_search.cpp", "MU", null ],
 		[ "/home/art/Hh_Dest/Hh_Settings/settingsmanager.cpp", "MU", null ],
 		[
-			"/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtab.cpp",
+			"/home/art/Hh_Dest/Model_Data_Provider/jobinfosecondtabadapter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/art/Hh_Dest/Model_Data_Provider/secondtabprocessingstrategy.cpp",
 			"MU",
 			null
 		],

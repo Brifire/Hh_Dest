@@ -31,7 +31,8 @@ qt_add_executable(Hh_Dest
     Model_Data_Provider/vacancydataprovider.h Model_Data_Provider/vacancydataprovider.cpp
     Model_Data_Provider/abstractprocessingstrategy.h
     Model_Data_Provider/abstactrowdata.h
-    Model_Data_Provider/jobinfosecondtab.h Model_Data_Provider/jobinfosecondtab.cpp
+    Model_Data_Provider/jobinfosecondtabadapter.h Model_Data_Provider/jobinfosecondtabadapter.cpp
+    Model_Data_Provider/secondtabprocessingstrategy.h Model_Data_Provider/secondtabprocessingstrategy.cpp
 
 
 

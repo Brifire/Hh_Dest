@@ -7,6 +7,7 @@ class AbstractRowData
 {
 public:
     virtual ~AbstractRowData()=default;
+    virtual void calc()=0;
     virtual QStringList to_string_list() const=0;
 };
 

@@ -7,6 +7,7 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/QVariantList \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/q17memory.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/q20functional.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/q20iterator.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/q20memory.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/q20type_traits.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/q20utility.h \
@@ -40,6 +41,7 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qdarwinhelpers.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qdatastream.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qdebug.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qendian.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qexceptionhandling.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qflags.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qfloat16.h \
@@ -55,10 +57,12 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qiterable.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qiterator.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qlatin1stringview.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qline.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qlist.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qlogging.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmalloc.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmap.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmargins.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmath.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmetacontainer.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qmetatype.h \
@@ -71,7 +75,9 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qobjectdefs_impl.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qoverload.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qpair.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qpoint.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qprocessordetection.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qrect.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qrefcount.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qscopedpointer.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qscopeguard.h \
@@ -80,6 +86,8 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qshareddata_impl.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qsharedpointer.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qsharedpointer_impl.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qsize.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtCore/qspan.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qstdlibdetection.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qstring.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qstringalgorithms.h \
@@ -124,6 +132,24 @@
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qversiontagging.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qxptype_traits.h \
   /home/art/Qt/6.9.0/gcc_64/include/QtCore/qyieldcpu.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qbrush.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qcolor.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qfont.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qicon.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qimage.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qpaintdevice.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qpixelformat.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qpixmap.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qpolygon.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qregion.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qrgb.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qrgba64.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qstandarditemmodel.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qtgui-config.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qtguiexports.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qtguiglobal.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qtransform.h \
+  /home/art/Qt/6.9.0/gcc_64/include/QtGui/qwindowdefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -221,6 +247,7 @@
   /usr/include/c++/13/bits/uses_allocator_args.h \
   /usr/include/c++/13/bits/utility.h \
   /usr/include/c++/13/bits/vector.tcc \
+  /usr/include/c++/13/cassert \
   /usr/include/c++/13/cctype \
   /usr/include/c++/13/cerrno \
   /usr/include/c++/13/chrono \

@@ -33,7 +33,7 @@ enum class choiceEnum
 class DataStructure
 {
 public:
-    // Получить доступ к синглтону
+    // доступ к синглтону
     static DataStructure& instance();
 
     // Доступ к данным
@@ -43,6 +43,7 @@ public:
     // Утилиты
     void clear(choiceEnum choice);
     void show_value_qDebug(choiceEnum choice);
+
 
 private:
     // Приватный конструктор и запрет копирования
@@ -57,6 +58,7 @@ private:
     std::vector<JobInfoStruct> m_vec_jobInfo;
 
 };
+
 
 #endif // DATASTRUCTURE_H
 
