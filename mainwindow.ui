@@ -18,7 +18,7 @@
     <item>
      <widget class="QTabWidget" name="tabWidget">
       <property name="currentIndex">
-       <number>1</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="tab_amount_skills">
        <property name="accessibleName">
@@ -41,7 +41,7 @@
         <string/>
        </property>
        <attribute name="title">
-        <string>Расширенная статистика по ключевым навыкам</string>
+        <string>Здесь ничего нет</string>
        </attribute>
        <layout class="QVBoxLayout" name="verticalLayout">
         <item>

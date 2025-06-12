@@ -75,6 +75,7 @@ void MainWindow::check_json_files()
 
 void MainWindow::fill_widgets()
 {
+    //fix later
     DataInsert::instance()->insert_data_json_skills_amount();
     DataInsert::instance()->insert_data_json_jobInfo();
     //DataStructure::instance().show_value_qDebug(choiceEnum::JobInfo);
@@ -90,7 +91,7 @@ void MainWindow::fill_widgets()
     data_provider->process(model);
 
     ui->tableView->setModel(model);
-
+    //
 
 
 
