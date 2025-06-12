@@ -12,7 +12,7 @@ class AbstractModelDataProvider: public QObject
     Q_OBJECT
 public:
     virtual ~AbstractModelDataProvider()=default;
-    virtual void process(const QList <QVariant> &data, QStandardItemModel *model) = 0;
+    virtual void process(QStandardItemModel *model) = 0;
 };
 
 #endif // ABSTRACTMODELDATAPROVIDER_H

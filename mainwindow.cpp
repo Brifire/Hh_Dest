@@ -1,5 +1,7 @@
 #include "mainwindow.h"
 #include "Hh_Downloading_Menu/downloadingmenu.h"
+#include "Model_Data_Provider/secondtabprocessingstrategy.h"
+#include "Model_Data_Provider/vacancydataprovider.h"
 #include "ui_mainwindow.h"
 #include <QPushButton>
 #include <QVBoxLayout>
@@ -26,7 +28,10 @@
 #include <Tabs_Filler/tabskillsfiller.h>
 
 #include <Tabs_Filler/tabskillsfiller.h>
+#include <qstandarditemmodel.h>
 
+
+#include "Model_Data_Provider/abstractmodeldataprovider.h"
 
 
 MainWindow::MainWindow(QWidget *parent)
@@ -72,10 +77,23 @@ void MainWindow::fill_widgets()
 {
     DataInsert::instance()->insert_data_json_skills_amount();
     DataInsert::instance()->insert_data_json_jobInfo();
-    DataStructure::instance().show_value_qDebug(choiceEnum::JobInfo);
+    //DataStructure::instance().show_value_qDebug(choiceEnum::JobInfo);
+    DataStructure::instance().show_value_qDebug(choiceEnum::KeySkillsCount);
     AbstractTabFiller* filler = new TabSkillsFiller();
     filler->fill_tab(ui->tab_amount_skills);
     delete filler;
+
+
+    QStandardItemModel* model=new QStandardItemModel();
+    SecondTabProcessingStrategy* strategy=new SecondTabProcessingStrategy();
+    VacancyDataProvider *data_provider=new VacancyDataProvider(strategy);
+    data_provider->process(model);
+
+    ui->tableView->setModel(model);
+
+
+
+
 }
 
 void MainWindow::fill_tab()

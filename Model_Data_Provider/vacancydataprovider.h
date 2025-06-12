@@ -3,16 +3,18 @@
 
 #include <QObject>
 #include <qstandarditemmodel.h>
+#include "Hh_Data_Structures/datastructures.h"
+#include "Model_Data_Provider/secondtabprocessingstrategy.h"
 #include "abstractmodeldataprovider.h"
 #include "abstractprocessingstrategy.h"
 
 class VacancyDataProvider : public AbstractModelDataProvider
 {
 public:
-    explicit VacancyDataProvider(AbstactProcessingStrategy* strategy) : m_strategy(strategy){};
-    void process(const QList <QVariant> &data, QStandardItemModel *model) override;
+    explicit VacancyDataProvider(SecondTabProcessingStrategy* strategy) : m_strategy(strategy){};
+    void process(QStandardItemModel *model) override;
 private:
-    AbstactProcessingStrategy* m_strategy;
+    SecondTabProcessingStrategy* m_strategy;
 };
 
 #endif // VACANCYDATAPROVIDER_H

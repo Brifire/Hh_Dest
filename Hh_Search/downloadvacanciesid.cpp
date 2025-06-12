@@ -26,7 +26,12 @@ DownloadVacanciesId::DownloadVacanciesId(const QString& text,int max_pages, QObj
 
 void DownloadVacanciesId::hh_search_JSON_items(int page, const QString& text)
 {
-    m_text=text;
+    if(raz)
+    {
+        m_maxPages=page;
+        m_text=text;
+    }
+    raz=false;
     QUrl url("https://api.hh.ru/vacancies");
     QUrlQuery query;
     query.addQueryItem("text", m_text);

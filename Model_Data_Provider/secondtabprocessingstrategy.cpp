@@ -6,7 +6,7 @@ SecondTabProcessingStrategy::SecondTabProcessingStrategy() {}
 
 
 
-QVariant SecondTabProcessingStrategy::compute()
+QHash<QString, DetailStat> SecondTabProcessingStrategy::compute()
 {
 
         m_qHashDetStat.clear();

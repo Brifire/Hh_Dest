@@ -45,7 +45,7 @@ void DownloadingMenu::on_pushButton_clicked()
 {
     QString text=ui->lineEdit->text();
     DataStructure::instance().clear(choiceEnum::KeySkillsCount);
-    data_find->hh_search_JSON_items(ui->spinBox->value(),text);
+    data_find->hh_search_JSON_items((ui->spinBox->value()/20),text);
     init_QProgressDialog();
 }
 

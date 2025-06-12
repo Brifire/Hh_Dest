@@ -41,6 +41,7 @@ private:
     QStringList m_vacancyQueue;
     QJsonArray m_allVacancyObjects;
     int m_repliesReceived = 0; //счетчик реплаев
+    bool raz=true;
 
 
 public slots:
