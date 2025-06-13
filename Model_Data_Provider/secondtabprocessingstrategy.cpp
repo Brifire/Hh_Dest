@@ -75,7 +75,6 @@ QHash<QString, DetailStat> SecondTabProcessingStrategy::compute()
             // Запись
             m_qHashDetStat.insert(skill, stat);
         }
-        QString ss;
         return m_qHashDetStat;
 }
 

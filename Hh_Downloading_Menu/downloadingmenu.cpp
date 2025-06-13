@@ -21,6 +21,8 @@ DownloadingMenu::~DownloadingMenu()
 
 void DownloadingMenu::closeEvent(QCloseEvent *event)
 {
+     DataStructure::instance().clear(choiceEnum::JobInfo);
+     DataStructure::instance().clear(choiceEnum::KeySkillsCount);
      emit sig_fill_widgets();
      this->close();
 }

@@ -85,13 +85,12 @@ void MainWindow::fill_widgets()
     delete filler;
 
 
-    QStandardItemModel* model=new QStandardItemModel();
-    SecondTabProcessingStrategy* strategy=new SecondTabProcessingStrategy();
-    VacancyDataProvider *data_provider=new VacancyDataProvider(strategy);
-    data_provider->process(model);
+    //QStandardItemModel* model=new QStandardItemModel();
+    //SecondTabProcessingStrategy* strategy=new SecondTabProcessingStrategy();
+    //VacancyDataProvider *data_provider=new VacancyDataProvider(strategy);
+    //data_provider->process(model);
+    // ui->tableView->setModel(model);
 
-    ui->tableView->setModel(model);
-    //
 
 
 
